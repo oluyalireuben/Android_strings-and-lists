@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My UI and List App</string>
+    <string name="my_mail">Email...</string>
+    <string name="my_pass">Password...</string>
+    <string name="my_btn">Login</string>
+
+    <string-array name="my_names">
+        <item>King</item>
+        <item>Lembuss</item>
+        <item>Irene</item>
+        <item>Chris</item>
+        <item>Ashley</item>
+        <item>Kendie</item>
+        <item>Rachael</item>
+        <item>Brian</item>
+        <item>Juma</item>
+        <item>Manase</item>
+        <item>Emmanuel</item>
+        <item>Oduor</item>
+        <item>Raph</item>
+        <item>Grant</item>
+    </string-array>
+</resources>
